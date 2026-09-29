@@ -3,7 +3,6 @@
 # turns any input string into a mocking version of itself
 # NF 9/28/2026
 
-print("Hello World!")
 phrase = str(input("Please enter a word to meme-ify: "))
 
 memeified = ""
